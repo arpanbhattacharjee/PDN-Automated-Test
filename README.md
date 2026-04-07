@@ -19,4 +19,4 @@ This script is configured for the following specific lab instrumentation:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/PDN-Automated-Test.git](https://github.com/arpanbhattacharjee/PDN-Automated-Test.git)
+   git clone [https://github.com/arpanbhattacharjee/PDN-Automated-Test.git](https://github.com/arpanbhattacharjee/PDN-Automated-Test.git)
